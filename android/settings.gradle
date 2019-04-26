@@ -1,0 +1,3 @@
+rootProject.name = 'pyf_2756'
+
+include ':app'
